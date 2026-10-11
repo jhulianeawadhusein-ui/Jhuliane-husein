@@ -1,0 +1,8 @@
+{
+  "name": "Voz & Prosa — Narrador Profissional de Audiobooks",
+  "description": "Narrador profissional de audiobooks e leitor imersivo para arquivos PDF e EPUB com extração e limpeza inteligente de capítulos, síntese vocal e navegação contínua.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
